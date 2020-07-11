@@ -1,7 +1,7 @@
 # SneakerUtilityBot
 A lightweight Discord bot including some sneaker related utilities. I am planning on updating this bot with new commands over time, please feel free to contribute!
 # Prerequisites
-* [.NET Core 3.1 or higher](https://html-agility-pack.net/)
+* [.NET Core 3.1 or higher](https://dotnet.microsoft.com/download/dotnet-core/current/runtime)
 * [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus)
 * [HTMLAgilityPack](https://html-agility-pack.net/)
 
