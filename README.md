@@ -14,3 +14,6 @@ A lightweight Discord bot including some sneaker related utilities. I am plannin
 # Usage
 After installing all the prerequisistes, simply compile the code and run the .exe file. Insert your bot token in `Bot.cs` and invite the bot to your server. 
 [Here](https://discordpy.readthedocs.io/en/latest/discord.html) is a guide outlining how to create a Discord bot. 4 proxies are needed to use the `!view` command, insert these in `proxies.txt`.
+
+# Discord
+Please contact me at `kalek#0001` on Discord, I would love to have a chat! Join [this](https://discord.gg/z8F4Xa9) Discord server for a supportive sneaker development community!
